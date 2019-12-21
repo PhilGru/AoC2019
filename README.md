@@ -1,5 +1,6 @@
 # Advent of Code 2019
 Language: Python
+
 Current Stars: 42*
 
 [Link to the challenges.](https://adventofcode.com/2019)
