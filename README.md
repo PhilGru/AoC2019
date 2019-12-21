@@ -1,5 +1,8 @@
 # Advent of Code 2019
 Language: Python
+Current Stars: 42*
+
+[Link to the challenges.](https://adventofcode.com/2019)
 
 My solutions for the Advent of Code Challenge of 2019. All solutions are written using the python standard libraries, no extra modules required.
 
